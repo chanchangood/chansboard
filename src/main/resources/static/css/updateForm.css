@@ -1,0 +1,36 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 40px;
+}
+
+.box {
+    margin: auto auto;
+    width: 500px;
+    height: 100%;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+/*form{*/
+/*    width: 500px;*/
+/*}*/
+
+label {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+.text {
+    margin: 10px 10px;
+    padding: 7px;
+}
+
+#content {
+    height: 300px;
+}
+
+#button {
+    background-color: lightgreen;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: chansboard
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/EXAMDB
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8111
